@@ -8,7 +8,7 @@ public class Encrypt {
 		for(int i = 0; i < pwd.length(); i++){
 			arr[i] =pwd.substring(i, i+1);
 		}
-		System.out.println(a[2][13]);
+		//System.out.println(a[2][13]);
 		for(int i = 0; i < pwd.length(); i++) {
 			for(int j = 0; j < 8; j++) {
 				for(int k = 0; k < 14; k++) {
